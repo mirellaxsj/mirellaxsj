@@ -19,7 +19,7 @@
    ##
   ![MIrella's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirellaxsj&show_icons=true&theme=radical)
   ##
-  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/mirellaxsj/mirellaxsj/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/mirellaxsj/mirellaxsj/output/github-contribution-grid-snake-dark.svg">
   
 
   
