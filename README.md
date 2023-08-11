@@ -19,7 +19,9 @@
    <a href = "mirellafrancasenai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
    ##
-  ![MIrella's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirellaxsj&show_icons=true&theme=radical)
+  <h1 align="center">
+   ![MIrella's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirellaxsj&show_icons=true&theme=radical)
+  </h1>
   ##
   <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/mirellaxsj/mirellaxsj/output/github-contribution-grid-snake-dark.svg">
   
