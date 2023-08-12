@@ -1,12 +1,12 @@
 ### <h1 align="center">Oiii, eu sou a Mirella França🥰</h1>
  <img height="200" align="right" src="https://i.pinimg.com/originals/37/ee/0c/37ee0c83d2df6004b74028191abecd1b.gif">
-
+ 
+ <h1 align="center">
 - 🌱 No momento estou estudando desenvolvimento de sistemas.
 - ##
   Estou aprendendo:
   
- 
- 
+ <h1 align="center">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://www.techbaz.org/Course/img/c-logo.png" width="40px" height="40px">
