@@ -1,5 +1,5 @@
 ### <h1 align="center">Oiii, eu sou a Mirella França🥰</h1>
- <img height="180" align="right" src="https://i.pinimg.com/originals/37/ee/0c/37ee0c83d2df6004b74028191abecd1b.gif">
+ <img height="200" align="right" src="https://i.pinimg.com/originals/37/ee/0c/37ee0c83d2df6004b74028191abecd1b.gif">
 
 - 🌱 No momento estou estudando desenvolvimento de sistemas.
 - ##
