@@ -1,5 +1,5 @@
 ### <h1 align="center">Oiii, eu sou a Mirella França🥰</h1>
- <img height="170" align="right" src="https://usagif.com/wp-content/uploads/gifs/dragon-16.gif.webp">
+ <img height="170" align="right" src="https://o.remove.bg/downloads/a42376ef-e1fe-494b-8c36-a93e9e587af5/image-removebg-preview.png">
 
 - 🌱 No momento estou estudando desenvolvimento de sistemas.
 - ##
