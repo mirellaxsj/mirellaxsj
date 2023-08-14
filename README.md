@@ -1,5 +1,5 @@
 ### <h1 align="center">Oiii, eu sou a Mirella França🥰</h1>
- <img height="190" align="right" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-dragao-4.gif">
+ <img height="190" align="right" src="https://mm6.wiki/images/3/39/Dragonv2.gif">
  
 
 - 🌱 No momento estou estudando desenvolvimento de sistemas.
