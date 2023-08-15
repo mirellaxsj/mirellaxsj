@@ -1,5 +1,5 @@
 ### <h1 align="center">Oiii, eu sou a Mirella França🥰</h1>
- <img height="190" align="right" src="https://mm6.wiki/images/3/39/Dragonv2.gif">
+ <img height="190" align="right" src="https://i.pinimg.com/originals/d0/eb/74/d0eb741fdcaa65022785c771e94d338a.gif">
  
 
 - 🌱 No momento estou estudando desenvolvimento de sistemas.
