@@ -27,7 +27,19 @@
   </h1>
 
   <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/mirellaxsj/mirellaxsj/output/github-contribution-grid-snake-dark.svg">
+
+  ###
+
   
+![city-min](https://github.com/MMVonnSeek/MMVonnSeek/assets/89359847/c039f86c-9189-4c37-b883-bcc7f85a4ece)
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mirellaxsj}/count.svg" /></p> 
+<br>
+</div>
 
   
 
