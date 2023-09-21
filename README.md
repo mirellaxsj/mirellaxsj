@@ -1,4 +1,4 @@
-### <h1 align="center"><img src="https://i.picasion.com/gl/92/hxHm.gif" width="475" height="38" border="0" alt="https://picasion.com/gl/hxHm/" /></h1>
+### <h1 align="center">Hello, I'm Mirella França</h1>
  <img height="190" align="right" src="https://i.pinimg.com/originals/d0/eb/74/d0eb741fdcaa65022785c771e94d338a.gif">
  
 
