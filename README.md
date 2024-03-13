@@ -2,9 +2,9 @@
  <img height="190" align="right" src="https://i.pinimg.com/originals/f9/5b/00/f95b0056f99ce71cf30b74ca0f4b246a.gif">
  
 
-- 🌱 No momento estou estudando desenvolvimento de sistemas.
+- 🌱 studying systems development.
 - ##
-  Estou aprendendo:
+  studying:
   
 
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
