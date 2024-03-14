@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40px" width="40px">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png" height="40" widht="40">
   <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" height="40" widht="40">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png" widht="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" widht="40" height="40">
   
   
    ##
