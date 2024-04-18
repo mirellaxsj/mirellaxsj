@@ -34,13 +34,14 @@
 
   ###
 
-  
-![city-min](https://github.com/MMVonnSeek/MMVonnSeek/assets/89359847/c039f86c-9189-4c37-b883-bcc7f85a4ece)
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3R6NDFlNHJxbGhpcTZkcGwzb3N4dms4YXhyeXA3bTMyYnJ0eDQwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" widht="100%" height="100%">
+</div>
 
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mirellaxsj}/count.svg" /></p> 
 <br>
 </div>
